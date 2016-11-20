@@ -2,7 +2,7 @@
  * File: MyPokemon.cpp
  * Author: Arnold Epanda
  * Date: 10/11/2016
- * Email: aepanda1@umbc.edu
+ * Email: behlarnold@gmail.com.edu
 
  * This c++ file includes MyPokemon header file and a definition 
  * of all functions decalred in the MyPokemon header file. This file 
