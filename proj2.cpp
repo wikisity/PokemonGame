@@ -2,7 +2,7 @@
  * File: proj2.cpp
  * Author: Arnold Epanda
  * Date: 10/11/2016
- * Email: aepanda1@umbc.edu
+ * Email: behlarnold@gmail.com
 
  * This c++ file includes a header file to enable the use of
  * all libraries needed to design a simple implementation of the 
