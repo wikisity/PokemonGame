@@ -1,0 +1,17 @@
+37          Vulpix     227      22        1
+147         Dratini     581      58        2
+95            Onix     235      23        1
+84           Doduo     740      73        1
+46           Paras     584      58        2
+46           Paras     873      87        2
+120          Staryu     383      38        2
+74         Geodude     723      72        1
+27       Sandshrew     285      28        1
+25         Pikachu     727      72        1
+46           Paras     869      86        2
+72       Tentacool     417      41        2
+29      Nidoran(m)     761      76        1
+132           Ditto     291      29        2
+49        Venomoth    1527     152        4
+66          Machop     816      81        2
+67         Machoke    1761     163        4
